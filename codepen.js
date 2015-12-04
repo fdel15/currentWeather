@@ -59,6 +59,7 @@ function getIconURL(img) {
 function setIcon() {
   $("#img").attr("src", icon)
 }
+
 function setTemp(sym) {
   $("#temp").text(temp + "\xB0" + sym)
 }

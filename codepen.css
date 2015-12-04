@@ -5,5 +5,10 @@
 }
 
 img {
-  width: 35px;
+  width: 55px;
+  display: inline-block;
+}
+
+#temp {
+  display: inline-block;
 }
