@@ -1,0 +1,9 @@
+.weather {
+  text-align: center;
+  border: solid;
+  margin-top: 20px;
+}
+
+img {
+  width: 35px;
+}
