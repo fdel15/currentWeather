@@ -103,14 +103,14 @@ function getCelsius() {
   $(this).removeClass('f').addClass('c')
   $(this).text("Get F\xB0")
   $(this).css('text-decoration', 'none')
-  $(this).css('color', 'black')
+  $(this).css('color', 'white')
   setTemp(cels, "C")
 }
 
 function getFahrenheit() {
   $(this).removeClass('c').addClass('f')
   $(this).text("Get C\xB0")
-  $(this).css('color', 'black')
+  $(this).css('color', 'white')
   setTemp(fahr, "F")
 }
 
