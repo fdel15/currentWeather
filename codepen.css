@@ -10,12 +10,14 @@ a {
   height: 45px;
   text-shadow: none;
   color: white;
+  text-shadow: 2px 2px black;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: none;
   color: white;
+  text-shadow: 2px 2px black;
 }
 
 .fall {
